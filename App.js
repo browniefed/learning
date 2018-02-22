@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { StyleSheet, Text, View, Animate } from "react-native";
+import { StyleSheet, Text, View, Animated } from "react-native";
 
 const BOX_DIM = 50;
 
